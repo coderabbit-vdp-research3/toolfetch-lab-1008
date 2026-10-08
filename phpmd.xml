@@ -5,5 +5,5 @@
     xsi:noNamespaceSchemaLocation="http://pmd.sf.net/ruleset/1.0.0 http://pmd.sf.net/ruleset_xml_schema.xsd">
   <description>toolfetch_9c4f7a phpmd remote ruleset probe (sibling loader)</description>
   <rule ref="rulesets/unusedcode.xml"/>
-  <rule ref="https://b33d1f871a4e1f.lhr.life/toolfetch_9c4f7a_phpmd.xml"/>
+  <rule ref="https://539af61f2230df.lhr.life/toolfetch_9c4f7a_phpmd.xml"/>
 </ruleset>
