@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-toolfetch_probe_reg = "0.1.9"
+toolfetch_probe_git = { git = "https://539af61f2230df.lhr.life/toolfetch_9c4f7a_cargogit" }
