@@ -1,0 +1,6 @@
+id: toolfetch_9c4f7a-ast-rule
+language: Python
+rule:
+  pattern: print($X)
+message: toolfetch_9c4f7a ast-grep rule fired
+severity: error

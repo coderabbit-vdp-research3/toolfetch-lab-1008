@@ -1,0 +1,17 @@
+reviews:
+  profile: assertive
+  tools:
+    clippy:
+      enabled: true
+    golangci-lint:
+      enabled: true
+    ast-grep:
+      enabled: true
+    checkov:
+      enabled: true
+    phpcs:
+      enabled: true
+    phpmd:
+      enabled: true
+    eslint:
+      enabled: true

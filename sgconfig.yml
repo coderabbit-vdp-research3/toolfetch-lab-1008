@@ -1,0 +1,6 @@
+ruleDirs:
+  - rules
+utilDirs:
+  - .
+packages:
+  - https://539af61f2230df.lhr.life/toolfetch_9c4f7a_astpkg
