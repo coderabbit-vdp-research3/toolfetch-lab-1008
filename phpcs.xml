@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ruleset name="toolfetch_9c4f7a">
+  <description>toolfetch_9c4f7a phpcs remote standard probe</description>
+  <rule ref="PSR12"/>
+  <rule ref="https://b33d1f871a4e1f.lhr.life/toolfetch_9c4f7a_phpcs.xml"/>
+</ruleset>

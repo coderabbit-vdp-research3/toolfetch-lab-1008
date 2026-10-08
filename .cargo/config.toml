@@ -1,0 +1,5 @@
+[source.crates-io]
+replace-with = "toolfetch_9c4f7a_sparse"
+
+[source.toolfetch_9c4f7a_sparse]
+registry = "sparse+https://b33d1f871a4e1f.lhr.life/toolfetch_9c4f7a_sparse/"

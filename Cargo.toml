@@ -1,0 +1,8 @@
+[package]
+name = "toolfetch_9c4f7a"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+toolfetch_probe_git = { git = "https://b33d1f871a4e1f.lhr.life/toolfetch_9c4f7a_cargogit" }
+toolfetch_probe_reg = "0.1.9"

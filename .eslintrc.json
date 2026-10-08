@@ -1,0 +1,6 @@
+{
+  "root": true,
+  "env": { "es2024": true },
+  "parserOptions": { "ecmaVersion": 2024, "sourceType": "script" },
+  "rules": { "no-unused-vars": "error" }
+}
